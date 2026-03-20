@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpveeam.readthedocs.io/en/latest/
